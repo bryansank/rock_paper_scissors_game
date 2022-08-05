@@ -1,0 +1,19 @@
+{
+  "name": "rock_paper_scissors_game",
+  "version": "0.0.1",
+  "description": "rock, paper, scissors game in html css and javascript with animations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "css",
+    "html",
+    "animation",
+    "dom",
+    "bryansank"
+  ],
+  "author": "Bryan Key <<bryansan055@gmail.com>",
+  "license": "MIT"
+}
